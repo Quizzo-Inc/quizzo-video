@@ -22,3 +22,12 @@ O vídeo foi desenvolvido na plataforma Canva (https://canva.com).
 O arquivo do vídeo, exportado em formato .mp4, segue disponível neste repositório. 
 Mas disponibilizamos também o acesso diretamente por link: 
 https://www.canva.com/design/DAEx0XbJIoc/WfxkjO05TAsWgA8Q3dMGAg/watch?utm_content=DAEx0XbJIoc&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton
+
+
+## Agradecimentos
+
+Aos nossos professores pelo préstimo em nos orientar e compartilhar seu conhecimento conosco.
+- Gustavo Alves Fernandes
+- Julio Vilela da Silva Neto
+- Rafaela Priscila Cruz Moreira
+- Samara Soares Leal
