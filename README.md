@@ -5,7 +5,7 @@ Repositório com vídeo mostrando o projeto Quizzo.
 
 ## Introdução
 
-Esse é o vídeo demonstrativo do Quizzo. 
+Esse é o vídeo demonstrativo do Quizzo. <br/>
 Nele, elencamos os tópicos principais da aplicação com uma rápida demonstração da dinâmica do jogo.
 
 ## Alunos:
