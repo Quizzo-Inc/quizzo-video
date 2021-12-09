@@ -1,4 +1,5 @@
-# Quizzo-Video
+# Quizzo - Vídeo de Demonstração
+
 Repositório com vídeo mostrando o projeto Quizzo.
 
 
